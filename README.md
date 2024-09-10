@@ -7,7 +7,7 @@
 <br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-mahobia)
-[![Gmail Badge](https://img.shields.io/badge/-harsh20mahobia@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harsh20mahobia@gmail.com)](mailto:harsh20mahobia@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-me@harshmahobia.in-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harsh20mahobia@gmail.com)](mailto:me@harshmahobia.in)
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
