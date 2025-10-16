@@ -1,5 +1,5 @@
 
-[![An image of @harsh00m's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harsh00m)](https://holopin.io/@harsh00m)
+
 
 <h1 align="center">Hi 👋, I'm Harsh Mahobia</h1>
 <h3 align="center">A Developer from India, who is enthusiast of Software Development</h3>
