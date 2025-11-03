@@ -22,7 +22,7 @@ Hey there! I’m **Harsh Mahobia**, a passionate **AI and System Architecture** 
 ## 🧩 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,java,typescript,nodejs,express,postgres,aws,docker,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,flask,typescript,tensorflow,nodejs,aws,docker,linux&theme=dark" />
 </p>
 
 ---
@@ -35,7 +35,7 @@ Hey there! I’m **Harsh Mahobia**, a passionate **AI and System Architecture** 
   <a href="mailto:harshmahobia.it@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://discord.gg/YOUR_DISCORD"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
-
+![](https://komarev.com/ghpvc/?username=harsh-mahobia)
 ---
 
 > 🎮 *Powered by passion, caffeine, and a neon glow.*
