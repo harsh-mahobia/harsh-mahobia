@@ -1,10 +1,6 @@
 # ⚡ GitHub Contribution Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harsh-mahobia&label=Profile+Views&color=00FF8C&style=for-the-badge" alt="Profile views" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF8C&center=true&vCenter=true&width=500&lines=AI+Enthusiast+%7C+Backend+Architect;System+Design+%7C+Scalable+Infra;Code+Crafted+with+💚+%26+🔥" alt="Typing SVG" />
 </p>
 
