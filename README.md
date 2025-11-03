@@ -1,6 +1,10 @@
 # ⚡ GitHub Contribution Stats
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=harsh-mahobia&label=Profile+Views&color=00FF8C&style=for-the-badge" alt="Profile views" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF8C&center=true&vCenter=true&width=500&lines=AI+Enthusiast+%7C+Backend+Architect;System+Design+%7C+Scalable+Infra;Code+Crafted+with+💚+%26+🔥" alt="Typing SVG" />
 </p>
 
@@ -27,7 +31,6 @@ Hey there! I’m **Harsh Mahobia**, a passionate **AI and System Architecture** 
 
 ---
 
-
 ## 🔗 Connect With Me
 
 <p align="center">
@@ -35,7 +38,7 @@ Hey there! I’m **Harsh Mahobia**, a passionate **AI and System Architecture** 
   <a href="mailto:harshmahobia.it@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://discord.gg/YOUR_DISCORD"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
-![](https://komarev.com/ghpvc/?username=harsh-mahobia)
+
 ---
 
 > 🎮 *Powered by passion, caffeine, and a neon glow.*
